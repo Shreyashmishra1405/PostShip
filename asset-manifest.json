@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PostShip/static/css/main.898176ad.css",
+    "main.js": "/PostShip/static/js/main.1c1002ef.js",
+    "static/js/453.4302ad97.chunk.js": "/PostShip/static/js/453.4302ad97.chunk.js",
+    "index.html": "/PostShip/index.html",
+    "main.898176ad.css.map": "/PostShip/static/css/main.898176ad.css.map",
+    "main.1c1002ef.js.map": "/PostShip/static/js/main.1c1002ef.js.map",
+    "453.4302ad97.chunk.js.map": "/PostShip/static/js/453.4302ad97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898176ad.css",
+    "static/js/main.1c1002ef.js"
+  ]
+}
